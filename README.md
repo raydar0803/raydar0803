@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=raydar0803)
 
-<a href="https://github.com/raydar0803">
-<img align="center" alt="Ray's stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=raydar0803&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raydar0803&count_private=true&theme=tokyonight&showicons=true)]()
 
 <a href="https://github.com/raydar0803">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raydar&layout=compact&theme=radical" />
