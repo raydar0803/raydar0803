@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=raydar0803)
 
+![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 🔭 I’m currently working on:
 A password manager that stores all the users's passwords along with the website and also helps with password generation, and all information is stored in a local data.txt file.
