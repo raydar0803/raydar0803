@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=raydar0803)
 
-![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+<a href="https://github.com/raydar0803">
+<img align="center" alt="Ray's stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=raydar0803&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/raydar0803">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raydar&layout=compact&theme=radical" />
+</a>
 
 
 🔭 I’m currently working on:
