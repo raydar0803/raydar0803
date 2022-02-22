@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raydar0803&count_private=true&theme=tokyonight&showicons=true)]()
 
-<a href="https://github.com/raydar0803">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raydar&layout=compact&theme=radical" />
-</a>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raydar0803&langs_count=5&theme=tokyonight)]()
 
 
-
+<br/>
 
 🔭 I’m currently working on:
 A password manager that stores all the users's passwords along with the website and also helps with password generation, and all information is stored in a local data.txt file.
